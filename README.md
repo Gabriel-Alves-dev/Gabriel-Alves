@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ##
+##
  
 <div> 
   <a href = "mailto:gabrielm.alvesdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -22,6 +22,7 @@
 </div>
 
 ##
-![github contribution grid snake animation](https://raw.githubusercontent.com/Gabriel-Alves-de/Gabriel-Alves-dev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/Gabriel-Alves-dev/Gabriel-Alves-dev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
